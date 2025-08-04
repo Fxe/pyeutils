@@ -16,7 +16,7 @@ setup(
     long_description=_readme,
     author="Filipe Liu",
     author_email="fliu@anl.gov",
-    url="https://github.com/",
+    url="https://github.com/Fxe/pyeutils",
     license=_license,
     packages=find_packages(exclude=("docs")),
     package_data={
@@ -40,6 +40,6 @@ setup(
     ],
     project_urls={
         "Documentation": "",
-        "Issues": "https://github.com/",
+        "Issues": "https://github.com/Fxe/pyeutils/issues",
     },
 )

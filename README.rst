@@ -52,4 +52,4 @@ Support
 -------
 
 For questions, bugs, or feature requests, open an issue at:
-https://github.com/yourusername/pyeutils/issues
+https://github.com/Fxe/pyeutils/issues
