@@ -16,7 +16,7 @@ Features
 - `epost`, `elink`, `egquery`, and `espell` not yet implemented
 - Handles request throttling and query parameters
 - Returns structured Python objects (e.g., dicts, lists, or parsed XML/JSON)
-- Compatible with Python 3.7+
+- Compatible with Python 3.9+
 
 Installation
 ------------
